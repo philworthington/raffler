@@ -27,5 +27,5 @@ Raffler::Application.configure do
   # number of complex assets.
   config.assets.debug = true
 
-  # config.ember.variant = :development
+  config.ember.variant = :development
 end
